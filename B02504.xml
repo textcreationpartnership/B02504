@@ -1,0 +1,404 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The crost couple, or A good misfortune. Which in a pleasant ditty discovers, the fortunate cross of a couple of lovers. To a new Northern tune, much in fashion.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674-1679?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02504</idno>
+            <idno type="STC">Wing C7266B</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[94]</idno>
+            <idno type="EEBO-CITATION">99887666</idno>
+            <idno type="PROQUEST">ocm99887666</idno>
+            <idno type="VID">183288</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02504)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183288)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[79])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The crost couple, or A good misfortune. Which in a pleasant ditty discovers, the fortunate cross of a couple of lovers. To a new Northern tune, much in fashion.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F Coles T Vere J Wright and J Clarke,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1674-1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Ille tell you a take no stranger than true ..."</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Trimmed.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="94" facs="tcp:183288:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <head>The croſt Couple, OR A good Misfortune.</head>
+            <argument>
+               <l>Which in a pleaſant Ditty diſcovers,</l>
+               <l>The fortunate croſs of a couple of Lovers.</l>
+            </argument>
+            <opener>To a New <hi>Northern</hi> Tune, much in faſhion.</opener>
+            <p>
+               <figure>
+                  <sp>
+                     <p>
+                        <gap reason="illegible: missing" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </p>
+                  </sp>
+               </figure>
+            </p>
+            <l>ILle tell you a tale no ſtranger than true,</l>
+            <l>
+               <hi>of a fa la la la la la</hi>
+            </l>
+            <l>The ſport on't is old, but the Sonnet is new</l>
+            <l>
+               <hi>'tis a fa la la &amp;c</hi>
+            </l>
+            <l>The ſtory ſprung from under a Buſh</l>
+            <l>From a tongue &amp; a tune as ſweet as a thruſh</l>
+            <l>But I fear it will make a fair Lady to bluſh</l>
+            <l>
+               <hi>with a fa &amp;c.</hi>
+            </l>
+            <l>Nay do not turn your faces away</l>
+            <l>
+               <hi>with a fa &amp;c.</hi>
+            </l>
+            <l>Here's nothing that can your Vertue betray</l>
+            <l>
+               <hi>with a fa &amp;c.</hi>
+            </l>
+            <l>Let not your fancies look a ſquint,</l>
+            <l>The Author would never have put it in Print</l>
+            <l>If there had béen any uncivil word in't</l>
+            <l>
+               <hi>but a fa &amp;c.</hi>
+            </l>
+            <l>I tell you no tales of Battels &amp; fights</l>
+            <l>
+               <hi>with a fa &amp;c.</hi>
+            </l>
+            <l>Of wonders, of Monſters of Goblins or ſprights,</l>
+            <l>
+               <hi>with a fa &amp;c.</hi>
+            </l>
+            <l>Nor yet of a Thief that got a reprieve</l>
+            <l>I do not intend your ſpirits to grieve</l>
+            <l>My ſtory's as old as <hi>Adam</hi> &amp; <hi>Eve</hi>
+            </l>
+            <l>
+               <hi>with a fa &amp;c.</hi>
+            </l>
+            <l>I went to walk one Evening-tide</l>
+            <l>
+               <hi>with a fa &amp;c.</hi>
+            </l>
+            <l>My fancy did lead me by a Wood ſide</l>
+            <l>
+               <hi>with a fa &amp;c.</hi>
+            </l>
+            <l>'Twas in the prime of all the ſpring</l>
+            <l>Which giveth delight to every thing,</l>
+            <l>I ſaw a Maid li<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en to hear a man ſing</l>
+            <l>
+               <hi>to her fa &amp;c.</hi>
+            </l>
+            <l>The tempting dreſſings that ſhe was in</l>
+            <l>
+               <hi>with a fa &amp;c.</hi>
+            </l>
+            <l>Would almoſt ſeduce a new Saint to the ſin</l>
+            <l>
+               <hi>with a fa &amp;c.</hi>
+            </l>
+            <l>She was a fair &amp; lovely maid</l>
+            <l>About her waſt his Arm he laid</l>
+            <l>The beautiful'ſt baggage is ſooneſt betrai'd</l>
+            <l>
+               <hi>to a fa &amp;c.</hi>
+            </l>
+            <l>I got me ſtrait up into a tree</l>
+            <l>
+               <hi>with a fa &amp;c.</hi>
+            </l>
+            <l>Where I might ſee all, and no man ſee me</l>
+            <l>
+               <hi>with a fa &amp;c.</hi>
+            </l>
+            <l>The tree was thick and full of growth</l>
+            <l>The top on't did hover ſo over them both</l>
+            <l>That if I had <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell, I had dropt in her mouth</l>
+            <l>
+               <hi>or her fa &amp;c.</hi>
+            </l>
+            <pb n="95" facs="tcp:183288:1"/>
+            <!-- PDF PAGE 10 -->
+            <l>There many amorous glances they caſt</l>
+            <l>
+               <hi>with a fa &amp;c.</hi>
+            </l>
+            <l>But that was not all, the beſt is at laſt</l>
+            <l>
+               <hi>with a fa &amp;c.</hi>
+            </l>
+            <l>Something it ſeems the youth would do</l>
+            <l>Which ſhe would not conſent unto</l>
+            <l>Have patience, &amp; you ſhall know e're you go</l>
+            <l>
+               <hi>with a fa &amp;c.</hi>
+            </l>
+            <l>When laid on her ſide, ſhe turn'd to the tree</l>
+            <l>
+               <hi>with her fa &amp;c.</hi>
+            </l>
+            <l>I durſt have ſworn ſhe had look'd upon me</l>
+            <l>
+               <hi>with her fa &amp;c.</hi>
+            </l>
+            <l>He many points of diviſion did run</l>
+            <l>But ſhe cryd out no, I ſhall be undone</l>
+            <l>He tun'd up his pipes though, &amp; thus he begun</l>
+            <l>
+               <hi>to her fa &amp;c.</hi>
+            </l>
+            <l>Oh come my own dear let's dally a while</l>
+            <l>
+               <hi>with a fa &amp;c.</hi>
+            </l>
+            <l>Thou haſt quicken'd my ſpirits now with a ſmile</l>
+            <l>
+               <hi>and <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hy fa &amp;c.</hi>
+            </l>
+            <l>The trembling of thy lips do ſhow</l>
+            <l>Thou haſt no power to ſay me no</l>
+            <l>Which makes me have a moneths mind unto</l>
+            <l>
+               <hi>thy fa &amp;c.</hi>
+            </l>
+            <l>This hearty kiſſe is a ſign thou wilt yield</l>
+            <l>
+               <hi>to thy fa &amp;c.</hi>
+            </l>
+            <l>The white of thy eyes ſpeak peace in the field</l>
+            <l>
+               <hi>with a fa &amp;c.</hi>
+            </l>
+            <l>Their for a Vail to hide thy face</l>
+            <l>Ile cloud thee with a ſweet embrace</l>
+            <l>There's many would with that they were in thy place</l>
+            <l>
+               <hi>with their fa &amp;c.</hi>
+            </l>
+            <l>Oh do not ſigh to hear me intice,</l>
+            <l>
+               <hi>with a fa &amp;c.</hi>
+            </l>
+            <l>Thou ne'r hadſt béen got hath thy mother been nice</l>
+            <l>
+               <hi>with her fa &amp;c.</hi>
+            </l>
+            <l>Then prethée put me out of my pain</l>
+            <l>For I am now in a merry vain</l>
+            <l>Let's play at that game, where the loſers do gain</l>
+            <l>
+               <hi>with their fa &amp;c.</hi>
+            </l>
+            <l>But oh my own dear why lyeſt thou ſo ſtill</l>
+            <l>
+               <hi>with thy fa &amp;c.</hi>
+            </l>
+            <l>Art thou in a ſwound or what is thy will</l>
+            <l>
+               <hi>with thy fa &amp;c.</hi>
+            </l>
+            <l>I prethee joy take no ſuch grief,</l>
+            <l>Since I am ſo ne<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r to thy relief</l>
+            <l>Oh let me play the amorous Thief</l>
+            <l>
+               <hi>with thy fa &amp;c.</hi>
+            </l>
+            <l>My deareſt of all, why hold'ſt thou ſo faſt</l>
+            <l>
+               <hi>with a fa &amp;c.</hi>
+            </l>
+            <l>Ile ſwear we will marry if thou wilt make haſt</l>
+            <l>
+               <hi>with thy fa &amp;c.</hi>
+            </l>
+            <l>
+               <hi>Cupid</hi> doth give us leave to play</l>
+            <l>Thy very bluſhes do betray</l>
+            <l>That thou doſt interpret what I have to ſay</l>
+            <l>
+               <hi>with a fa &amp;c.</hi>
+            </l>
+            <l>Then on her brow her vail ſhe ſpread</l>
+            <l>
+               <hi>with a fa &amp;c.</hi>
+            </l>
+            <l>As if he had been going to cut off her head</l>
+            <l>
+               <hi>with his fa &amp;c.</hi>
+            </l>
+            <l>He with his Lips her mouth did wipe,</l>
+            <l>And gave her many an earneſt gripe</l>
+            <l>For juſt now my Lady was yielding ripe</l>
+            <l>
+               <hi>with her fa &amp;c.</hi>
+            </l>
+            <l>In what a fret was I in the tree</l>
+            <l>
+               <hi>with a fa &amp;c.</hi>
+            </l>
+            <l>That I had not then another by me</l>
+            <l>
+               <hi>with her fa &amp;c.</hi>
+            </l>
+            <l>Then I perceiv'd they whiſper'd a while</l>
+            <l>With many fair pleadings he did her beguile</l>
+            <l>Sure ſomething he ſhew'd her which made her to ſmile</l>
+            <l>
+               <hi>with a fa &amp;c.</hi>
+            </l>
+            <l>He ſaid he was ſure he could not be ſpy'd</l>
+            <l>
+               <hi>with a fa, &amp;c.</hi>
+            </l>
+            <l>But I if I durſt could have told him he ly'd</l>
+            <l>
+               <hi>with his fa &amp;c.</hi>
+            </l>
+            <l>I feard I ſhould be brought to light</l>
+            <l>She ſo often caſt up her Eyes ſo bright</l>
+            <l>The pleaſures of Love did ſo dazle her ſight</l>
+            <l>
+               <hi>and her fa &amp;c.</hi>
+            </l>
+            <l>My Gameſter could no longer forbear</l>
+            <l>
+               <hi>her fa &amp;c.</hi>
+            </l>
+            <l>No more ſhould I if I had been there</l>
+            <l>
+               <hi>by her fa &amp;c.</hi>
+            </l>
+            <l>I turn'd and ſcrued my body round,</l>
+            <l>To ſée my gallant ſcale the Town</l>
+            <l>But his getting up made me tumble down</l>
+            <l>
+               <hi>with a fa &amp;c</hi>
+            </l>
+            <l>Such was my fate, no miſchief I had</l>
+            <l>
+               <hi>with a fa &amp;c.</hi>
+            </l>
+            <l>My Lovers both run as if they'd béen mad</l>
+            <l>
+               <hi>with their fa &amp;c.</hi>
+            </l>
+            <l>And now I hope a warning 'twill be</l>
+            <l>How they in ſuch ſinful pleaſures agree</l>
+            <l>For fear of the Devil that fell from the tree</l>
+            <l>
+               <hi>with his fa la la la la la la.</hi>
+            </l>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>F. Coles T Vere J. Wright</hi> and <hi>J Clarke.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
